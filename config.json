@@ -1,0 +1,205 @@
+{
+    "en-UK": {
+        "styles": {
+            "bg": "#171717",
+            "lang-select-color": "#222829",
+            "bg-light": "#171717",
+            "welcome-bonus-bg": "#171717",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#262626",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#B09250",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#35376F",
+            "yellow": "#B09250",
+            "yellow-button": "#35376F",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#171717",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#444446",
+            "pay-back": "#deeadf",
+            "providers-back": "#171717",
+            "faq-label": "#171717",
+            "bg-footer": "#171717",
+            "copyright": "#e7e7d5",
+            "starColor": "#B09250",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Realz Casino",
+            "title": "Realz Casino: Bonus up to 500, Free Spins, Slots & Live Games",
+            "description": "Realz Casino features thousands of slots and live tables, a welcome offer up to 500 with up to 200 free spins, plus tournaments, cashback promos, and smooth withdrawals.",
+            "canonical": "realz-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1733",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "realz-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1734",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1735"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1739",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Realz Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Realz Casino — Slots, Live Casino, Bonuses, and Fast Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1740",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1741",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Realz stands out through variety and consistently active promotions that keep gameplay engaging. ",
+            "items": [
+                "Huge range of slots and live tables.",
+                "Frequent tournaments, missions, and in-game challenges.",
+                "Strong welcome pack: bonus plus spins.",
+                "Weekly cashback offers on selected games.",
+                "High betting limits across live titles.",
+                "Flexible payments: cards, e-wallets, crypto.",
+                "24\/7 support with quick responses."
+            ],
+            "advantagesAfterText": "The platform focuses on fast discovery of games, fresh releases, and smooth navigation for both casual players and high-stakes sessions.\n",
+            "knowMore": "Know more",
+            "appTitle": "Realz App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1742",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Realz App",
+            "mobileGooglePlayImageTitle": "Realz App",
+            "mobileIosImageTitle": "Realz App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Realz",
+                "description1": "Realz stands out with sizable promotional packs and a broad catalogue of games known for big multipliers. Add frequent events and rotating offers, and the overall value feels consistently high.\n",
+                "items": [
+                    "Bonus up to 500.",
+                    "Up to 200 free spins.",
+                    "Wins up to 20,000x."
+                ],
+                "description2": "Realz is a modern online casino built around a large catalogue of slots, live tables, and ongoing in-game activity. The platform focuses on clean navigation, making it easy to move between categories and spot new releases quickly.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1743",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The slots section typically mixes classic-style titles with modern video slots featuring bonus buys, cascades, and progressive jackpot options. For a more authentic casino feel, live dealer content is available, covering roulette, blackjack, baccarat, and interactive game-show formats. Realz keeps engagement high through frequent tournaments and race-style promotions where consistent play can matter as much as a single big hit. Missions and challenges add extra structure, rewarding exploration across different genres and mechanics. Welcome offers often combine bonus funds with free spins so players can try popular games while reducing early risk. Beyond the first deposit, rotating reload deals and themed weekend promos are commonly used to keep value steady over time. Cashback promotions are another highlight, returning a portion of wagering during a set period and helping smooth variance. Seasonal campaigns may appear around holidays or major launches, adding limited-time prize pools and extra rewards. A tiered loyalty approach supports longer-term play, unlocking personalised deals, higher withdrawal limits, and additional perks as status grows. The more active the gameplay, the more likely players are to see enhanced bonuses, recurring gifts, and tailored conditions. Banking is designed for convenience, typically supporting common methods such as cards and e-wallets, alongside alternative options. Account checks and transaction limits are used to protect payments and maintain payout integrity. Customer support is available around the clock and assists with bonuses, banking, and technical questions. Overall, Realz suits players who want a broad game selection, a steady stream of promotions, and a lively schedule of events. With responsible play, it works well for quick sessions and longer strategies built around missions, tournaments, and status benefits."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Realz access & safer play rules",
+                "description": "<p>\nRealz operates as an online casino accessed via a player account, so the key requirement is being of legal age and using accurate profile details. During registration, real personal information matters to avoid verification and withdrawal delays later. Games are played using real balance, while bonus funds follow separate wagering conditions. The casino typically restricts multiple accounts per person and may act against attempts to bypass rules. Before depositing, it’s sensible to review minimum amounts, limits, and available payment options. Withdrawals usually require basic identity checks and may include proof of address and payment method ownership. Bonus play often comes with max-bet rules and game contribution restrictions, so always follow the specific promo terms. Fraud, collusion, exploiting bugs, and any manipulation of bonus systems are prohibited. Responsible play means controlling budget, time, and emotions, especially after losing streaks. If behaviour starts to feel risky, set limits or take a break immediately. Safer gambling tools help keep play within healthy boundaries.\n\n<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- Левая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Access conditions\n\n\n<\/h4>\n            <ul>\n            <li>• \nAge: 18+ only.\n\n<\/li>\n            <li>• \nRegistration: one account per person\/device\/payment details.\n\n<\/li>\n            <li>• \nVerification: documents may be required before cashout.\n\n<\/li>\n           <li>• \nAvailability: service access can vary by location.\n\n<\/li>\n       \n            <li>• \nPayments: deposits\/withdrawals follow provider rules.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- Правая колонка -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibited actions\n\n\n<\/h4>\n        <ul>\n            <li>• \nMulti-accounting, identity misuse, third‑party documents.\n\n<\/li>\n            <li>• \nBonus abuse or play patterns breaching promo rules.\n\n<\/li>\n       <li>• \nUsing VPN\/proxy to bypass restrictions.\n\n<\/li>\n            <li>• \nCollusion, fraudulent strategies, bug exploitation.\n\n<\/li>\n            <li>• \nEarly withdrawal with an active bonus when disallowed.\n<\/li>\n  \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible gambling\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSet deposit, loss, and time limits.\n\n<\/li>\n            <li>• \nUse cooling-off breaks when needed.\n\n<\/li>\n            <li>• \nAvoid chasing losses.\n\n<\/li>\n            <li>• \nUse self-exclusion if control is slipping.\n\n<\/li>\n\t    <li>• \nPlay only with money you can afford to lose.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRealz licensing & security: data protection and privacy\n<\/h3>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLicensing and compliance framework\n<\/h4>\n<p>\nRealz presents itself as a licensed gaming platform, with operations guided by a regulator and internal compliance standards. Licence details are typically published in the site footer and within legal pages such as Terms, bonus rules, and policy sections. Licensing matters because it sets expectations for payment handling, customer verification, and dispute procedures. For players, this usually means clearer rules and transparent reasons when documents or extra checks are requested. If availability varies by location, features and conditions may differ, so the most reliable reference is the information shown within your own account environment.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nData collection and minimisation\n<\/h4>\n<p>\nDuring registration and banking, the system typically collects personal data needed to run the account and confirm identity. This may include name, date of birth, contact details, transaction records, and account activity history. Under a minimisation approach, only data required for security, payouts, and legal obligations is requested. Some information is requested only when certain withdrawal thresholds are reached or when risk indicators trigger additional checks. Keeping your profile accurate and up to date helps prevent avoidable verification delays.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEncryption and secure connections\n<\/h4>\n<p>\nData transfer between your device and the platform is commonly protected by TLS encryption, reducing the risk of intercepted logins and payment details. This is especially important during sign‑in, deposits, and withdrawal requests. Additional safeguards often include session protection, login attempt limits, and monitoring for suspicious activity. Practical security improves when you use a strong unique password and secure the email linked to the account. It’s also wise to avoid logging in over unsecured public networks and to change your password promptly if anything seems off.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayment security and KYC\/AML checks\n<\/h4>\n<p>\nFinancial security is typically built on a combination of payment-provider rules and KYC\/AML procedures. KYC confirms that the account belongs to a real individual, while AML checks reduce risks tied to fraudulent transactions and illicit funds. These processes may request documents proving identity, address, and payment method ownership. Source‑of‑funds checks can also appear for larger cashouts or unusual activity patterns. While it can feel like an extra step, it directly supports payout integrity and protects against unauthorised use.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPrivacy policy and data sharing\n<\/h4>\n<p>\nA privacy policy usually explains how data is used: to operate the account, process payments, prevent fraud, and improve service quality. It also outlines when information may be shared with third parties such as payment providers, verification services, and technical partners. Such sharing is generally limited to what is necessary and bound by contractual data‑protection obligations. The policy typically sets retention periods and explains why some records may be kept longer due to financial requirements. Players can usually manage marketing preferences and request corrections if personal data is inaccurate.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPractical player recommendations\n<\/h4>\n<p>\nTo enhance personal security, use a unique password, never share account access, and avoid third‑party “help” with verification. Store your documents securely and submit them only through official support channels. If you play with bonuses, review restrictions in advance to prevent cashout issues caused by rule breaches. For privacy control, periodically check notification and marketing settings, and monitor login or transaction history where available. These habits reduce risk and make the overall experience more predictable.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRealz customer support: channels and service quality<\/h3>\n\n<p>\nRealz support is designed to resolve common topics quickly, including bonuses, payments, verification, technical issues, and game rules. Live chat is typically the primary channel, ideal for urgent questions and transaction status updates. Email works best for cases where you need to attach documents, screenshots, or a detailed explanation. Phone assistance may be available via callback or limited hours, so chat is usually faster for immediate help. Chat responses often arrive within minutes, while email replies may range from a few hours to a full day depending on complexity and volume. Service quality shows in how clearly agents explain bonus conditions, payout timelines, and document requirements, and how efficiently issues are driven to completion. Keeping a ticket reference or saving transcripts can speed up follow‑ups. Round‑the‑clock coverage is common, and multilingual support may be available depending on staffing and demand. More complex matters—such as bonus disputes or source‑of‑funds checks—can take longer because specialist teams may be involved. To get faster outcomes, include your username, transaction date, payment method, and exact amount right away. It’s also smart to confirm document specs early to avoid re‑submissions. Overall, live chat suits fast clarifications, while email is best for verification and document-heavy processes.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast help for bonuses, games, and payments.\n\n<\/li>\n            <li>• \nEmail: detailed cases with attachments.\n\n<\/li>\n            <li>• \nPhone: often via callback\/on request.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times & service\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: typically 1–5 minutes for first response.\n\n<\/li>\n            <li>• \nEmail: typically 2–24 hours depending on the case.\n\n<\/li>\n            <li>• \nEnhanced checks: may take 24–72 hours when compliance review is needed.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSupport is usually available in multiple languages; specific availability can vary by time and workload.\n\n<\/li>\n            <li>• \nHelp pages and FAQs can solve many standard questions without waiting.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Realz",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRealz loyalty programme: VIP tiers, conditions, and bonuses\n<\/h3>\n\n<p>\nThe Realz loyalty programme is typically structured as a tiered VIP system where your status grows with activity and total wagering. It’s designed to reward regular players not only for big wins, but also for consistent play over time. The main VIP benefit is personalised offers that tend to become more frequent and more valuable as you progress. Early tiers focus on baseline rewards and access to general promotions, while higher tiers add stronger limits, faster handling, and tailored gifts. Cashback is a key component, helping smooth bankroll swings during higher-variance periods. VIP-only free spins and exclusive promotions are also common at certain levels. Progress is usually driven by VIP points earned from real-money bets. Different game categories may contribute at different rates, so your pace can vary depending on slots versus live games. Tier status may be reviewed on a set cycle, making consistency more important than one-off bursts of activity. The higher the tier, the more likely you are to see tailored deposit deals, stronger cashback, and priority processing. For players who participate in tournaments and play frequently, VIP can add meaningful extra value. Overall, the programme turns everyday wagering into a structured path where perks grow with your tier.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join and participate\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnrolment: often automatic after signup and real play.\n\n<\/li>\n            <li>• \nVIP points: earned through real-money wagering.\n\n<\/li>\n            <li>• \nGame weighting: slots may contribute more than live games (rule-dependent).\n\n<\/li>\n            <li>• \nTier review: status may be reassessed weekly\/monthly.\n\n<\/li>\n\t    <li>• \nFair play: breaches and bonus abuse can remove benefits.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n<\/h4>\n\n <ul>\n            <li>• \nBronze: entry tier after initial wagering and activity.\n\n<\/li>\n            <li>• \nSilver: points accumulation through consistent play.\n\n<\/li>\n            <li>• \nGold: steady activity plus meaningful wagering volume and promo participation.\n\n<\/li>\n            <li>• \nPlatinum: high volume, frequent play, expanded benefits.\n\n<\/li>\n\t    <li>• \nDiamond\/VIP: top tier with premium personalised conditions.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback 5%–15%: returns part of net losses over a period to support bankroll.\n\n<\/li>\n            <li>• \nVIP bonuses up to 200–500: personalised deposit bonuses or bonus credit.\n\n<\/li>\n            <li>• \nFree spins 20–100: VIP-only spins on selected slots.\n\n<\/li>\n            <li>• \nHigher withdrawal limits: from 500\/day and 7,000\/month up to 1,500\/day and 20,000\/month as tiers grow.\n\n<\/li>\n\t    <li>• \nFaster handling: priority processing for withdrawals and escalations.\n\n<\/li>\n\t    <li>• \nPersonal manager (top tiers): tailored promos and priority dispute support.\n\n<\/li>\n\t    <li>• \nVIP tournaments: private leaderboards and extra prize pools.\n\n<\/li>\n\t    <li>• \nGifts and tailored promos: activity-based rewards matched to your play style.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers at Realz: promos, wins, and seasonal events\n<\/h3>\n\n<p>\nRealz promotions are typically designed to keep value high beyond the initial sign‑up phase. New players usually see a welcome pack that combines bonus funds with free spins on popular slots. For ongoing play, reload deals are commonly rotated to add extra value to repeat deposits. Free spins campaigns often target specific slot titles or themed collections, encouraging players to try different mechanics. Competitive players can join tournaments and races where prizes are distributed via leaderboards based on activity and results. Missions and challenges add structure by rewarding completed tasks such as a set number of spins or play in selected categories. Non‑VIP cashback promos can act as a buffer over time by returning part of net losses at the end of a period. Seasonal campaigns may appear around holidays and major releases, bringing additional rewards and prize pools. Live casino may also feature its own limited‑time offers tied to roulette, table games, or game shows. Many offers require activation and have expiry windows, so timing and opt‑in rules matter. Bonuses usually come with wagering rules, max‑bet limits, and game eligibility conditions that must be followed. Used wisely, promotions can extend bankroll time, increase bonus‑feature access on slots, and add more chances for high multipliers.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCommon promo types\n<\/h4>\n\n <ul>\n            <li>• \nWelcome pack up to 500 + up to 200 free spins — new‑account offer, often released in stages for broader game testing.\n\n<\/li>\n            <li>• \nReload bonus 50% up to 200 — repeat‑deposit deal that boosts balance value for regular sessions.\n\n<\/li>\n            <li>• \nWeekend reload 75% up to 300 — time‑limited weekend offer suited to longer play.\n\n<\/li>\n            <li>• \nCrypto bonus 100% up to 400 — alternative‑method promo that may run under separate wagering rules.\n\n<\/li>\n\t    <li>• \nWeekly cashback 10% — returns part of net losses over a set period to reduce variance.\n\n<\/li>\n\t    <li>• \nFree spins 20–100 on selected slots — targeted spins with time limits and game restrictions.\n\n<\/li>\n\t    <li>• \nSlot tournaments with prize pools (example: 5,000–20,000) — leaderboards where prizes are paid by ranking.\n\n<\/li>\n\t    <li>• \nRaces based on wagering — rewards tied to activity volume; suitable for consistent play.\n\n<\/li>\n\t    <li>• \nMissions & challenges with rewards 5–50 — task‑based rewards delivered as bonus credit or spins.\n\n<\/li>\n\t    <li>• \nSeasonal events and themed campaigns — limited‑time promos with extra draws, spins, and temporary boosts.\n\n<\/li>\n\t    <li>• \nLive casino promos — roulette\/table\/game‑show offers with their own time windows and mechanics.\n\n<\/li>\n\t    <li>• \nDrops and random rewards — surprise bonuses triggered during play after simple eligibility conditions.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Realz: slots, live casino, and game shows\n<\/h3>\n\n<p>\nThe Realz catalogue typically revolves around slots, as they deliver the widest variety of themes, features, and volatility profiles. The most played titles are often modern video slots with multipliers, cascading reels, and bonus buys, where pace is faster and big-hit potential feels stronger. Fishing, myth, and adventure series tend to remain favourites due to recognisable style and clear bonus structures. For classic casino fans, the live casino section matters most, featuring roulette, blackjack, and baccarat with a more authentic table feel. Live play is valued for transparency and a realistic flow, and some tables can support higher limits. Game shows are popular because rounds are quick, bet options are varied, and bonus segments are visually engaging. Crash and instant games also attract players who prefer short sessions and rapid outcomes. Jackpot enthusiasts often look for progressive slots where large payouts can come from pooled prize growth as well as bonus features. When choosing slots, it’s smart to consider RTP, volatility, and max-bet limits—especially while playing with bonuses. In live casino, table limits, dealing speed, and side bets become the key parameters. With a mix of slots, live tables, and game shows, Realz can suit both low‑stake casual play and higher‑limit sessions focused on multipliers.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular titles and formats\n<\/h4>\n\n <ul>\n            <li>• \nGates of Olympus — dynamic multipliers and frequent feature action for big‑x hunting.\n\n<\/li>\n            <li>• \nBig Bass Splash \/ Big Bass series — collectible‑style bonus rounds with clear progression.\n\n<\/li>\n            <li>• \nRazor Shark — sharp swings and high multipliers for high‑volatility fans.\n\n<\/li>\n            <li>• \nLegacy of Dead — free spins with expanding symbols and a classic feature structure.\n\n<\/li>\n\t    <li>• \nWanted Dead or a Wild — fast pace, strong features, and big‑win potential.\n\n<\/li>\n\t    <li>• \n9 Masks of Fire — staged bonus mechanics that build momentum across features.\n\n<\/li>\n\t    <li>• \nProgressive jackpots — prize pools that grow over time and can trigger large payouts.\n\n<\/li>\n\t    <li>• \nLive Roulette — multiple tables and limit ranges for structured betting systems.\n\n<\/li>\n\t    <li>• \nLive Blackjack — decision‑driven play with varying rules and limits.\n\n<\/li>\n\t    <li>• \nLive Baccarat — quick rounds and simple core rules for steady tempo.\n\n<\/li>\n\t    <li>• \nCrazy Time (game show) — interactive bonus rounds with many bet types.\n\n<\/li>\n\t    <li>• \nCrash games — “cash out in time” mechanics suited to short sessions.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum bets at Realz\n<\/h3>\n\n<p> \nBet ranges at Realz vary by game, provider, and content type—slots, live tables, game shows, or fast formats. Slots usually offer the broadest selection but lower maximums, while live casino can support higher ceilings on certain tables. For the smoothest experience, it’s best to confirm limits inside each game window, as they can differ even within the same category. Below are typical ranges that help set expectations when choosing a format.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B09250; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (main catalogue)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Bonus‑buy slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 20,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5,000<\/td>\n                <\/tr>\n\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Game shows<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">4,600<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Crash \/ fast games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">RNG\/virtual roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Sports betting (if available)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals at Realz: methods, payout speed, and limits\n<\/h3>\n\n<p>\nWithdrawals at Realz generally follow a “review first, pay out second” structure, so timelines split into request processing and the final transfer. The first stage is the withdrawal review, where the system checks rule compliance, bonus status, and account details. If the account is not verified, documents may be requested before the payout can complete, which affects speed. E‑wallets and some alternative methods are often the fastest, while cards and bank transfers can take longer due to banking cycles. Active bonuses can block cashout until wagering is completed, or cause bonus funds to be removed if early withdrawal is not allowed under the offer rules. A “deposit wagering” rule may also apply before cashout to prevent non‑gaming transactions. Withdrawal limits can depend on account level and internal rules, so more active profiles may access higher ceilings. Timing matters too—requests submitted outside processing windows may start later. To speed things up, complete verification early and keep deposit\/withdrawal methods consistent where possible. If a withdrawal is delayed, the most common reasons are document checks, bonus verification, or payment method confirmation. Overall, the process becomes predictable when your profile is accurate, promo terms are followed, and you choose a suitable withdrawal method.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: Visa\/Mastercard — convenient, often slower due to banks.\n\n<\/li>\n            <li>• \nBank transfer: suitable for larger amounts, typically 3–7 days.\n\n<\/li>\n            <li>• \nE‑wallets: Skrill\/Neteller\/MiFinity and similar — often the fastest option.\n\n<\/li>\n            <li>• \nAlternative methods: Revolut‑style solutions (if available in your account).\n\n<\/li>\n\t    <li>• \nCryptocurrency: BTC\/ETH\/USDC and more — speed depends on review + network.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed\n<\/h4>\n<p>\nRequest processing (pending): from hours up to 0–5 days, especially with checks.\n\n<\/p>\n\n<p>\nAfter approval:\n\n\n<\/p>\n<ul>\n            <li>• \nE‑wallets: often 0–24 hours.\n\n<\/li>\n            <li>• \nCrypto: often 0–24 hours + blockchain confirmation time.\n\n<\/li>\n            <li>• \nCards: commonly 3–5 days.\n\n<\/li>\n            <li>• \nBank transfer: commonly 3–7 days.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>• \nBase limits: around 500 per day and 7,000 per month on standard level.\n\n<\/li>\n            <li>• \nHigher limits: up to 1,500 per day and 20,000 per month for more active tiers\/status.\n\n<\/li>\n            <li>• \nMinimum withdrawal: often from 10 (method\/currency dependent).\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhat can slow a payout\n\n\n<\/h4>\n\n <ul>\n            <li>• \nUnverified account or unclear documents.\n\n<\/li>\n            <li>• \nActive bonus with incomplete wagering.\n\n<\/li>\n            <li>• \nDeposit\/withdrawal method mismatch.\n\n<\/li>\n            <li>• \nExtra security checks for large amounts.\n\n<\/li>\n\t    <li>• \nIncorrect bank details or provider restrictions.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to speed up withdrawals\n\n\n<\/h4>\n\n <ul>\n            <li>• \nComplete KYC early and keep your profile current.\n\n<\/li>\n            <li>• \nWithdraw via the same method used for deposit when possible.\n\n<\/li>\n            <li>• \nFollow bonus rules and max‑bet limits.\n\n<\/li>\n            <li>• \nSubmit requests during processing hours.\n\n<\/li>\n\t    <li>• \nProvide key details immediately when contacting support.\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Can I play in demo mode?",
+                    "answer": "Many slots offer a demo mode so you can test features without risking your balance. If demo is unavailable, it’s usually due to provider settings or game-specific restrictions.\n\n\n"
+                },
+                {
+                    "title": "Can I choose my account currency when signing up?",
+                    "answer": "In many cases, you select a currency during registration and changing it later may be difficult or not allowed. If you need a different currency, it’s best to ask support before creating the account.\n\n\n"
+                },
+                {
+                    "title": "Can I cancel a withdrawal request?",
+                    "answer": "Cancellation is often possible if the request is still pending and funds have not been sent. Once a payout is initiated, cancelling is usually not possible.\n\n\n"
+                },
+                {
+                    "title": "How do I see which bonus is currently active?",
+                    "answer": "Your account area typically shows active bonuses and wagering progress. It also lists expiry dates and key conditions.\n\n\n"
+                },
+                {
+                    "title": "What if a promo code doesn’t work?",
+                    "answer": "Common reasons include incorrect entry, expiry, an ineligible payment method, or not meeting promo conditions. Check the offer rules first, then contact live chat with the code and attempt time.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1744",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Realz Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-UK",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
